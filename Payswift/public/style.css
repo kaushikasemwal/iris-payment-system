@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+}
+#features {
+    margin: 20px;
+}
+#demo input, #demo button {
+    padding: 10px;
+    margin: 10px;
+}
